@@ -30,7 +30,7 @@ What separates these levels is scope, judgment, and leverage — not tenure. We 
 - Has informed opinions about product decisions, not just implementation.
 - Uses AI to compress weeks of work into days — output significantly exceeds what an unaided engineer would produce.
 
-## Lead Product Engineer
+## Staff Product Engineer
 - Work happens completely autonomously with no regular need for review.
 - Owns and runs entire subsystems.
 - Helps set and maintain engineering standards for the team.
@@ -40,7 +40,7 @@ What separates these levels is scope, judgment, and leverage — not tenure. We 
 - Uses AI to multiply not just their own output, but their team's.
 
 ## Principal Product Engineer
-- Can set and direct an entire product area or platform (e.g., mobile, scheduling, the field experience).
+- Can set and direct an entire product area across multiple platforms (e.g., mobile, scheduling, the field experience).
 - Fully capable of designing, owning, and shipping entirely novel systems.
 - Capable of running and directing larger teams for large, long-running projects.
 - Invents new concepts and pushes the whole organization forward regularly — others copy their patterns.

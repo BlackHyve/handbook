@@ -44,19 +44,6 @@ We can't predict exactly what will be hot in three months, but here's a represen
 - **Stage.** Past zero, with paying customers, real revenue, and growing pipeline, but still early enough that you'll have a defining hand in what BlackHyve becomes.
 - **Ship daily.** We move fast and ship quality code to production every day. 
 
-## How we hire
-
-We respect senior candidates' time. No leetcode gauntlet, no five rounds of behavioral interviews. The rough process:
-
-1. **Application review.** We read what you sent: the cover letter, the ship links, the references. If there's a fit, we'll reach out within a week.
-2. **Conversation with the CTO.** ~45 minutes. We dig into your work, your motivations, and your read on the problem space.
-3. **Deep-dive on past work.** You walk us through one or two things you've shipped: the decisions, the tradeoffs, what you'd do differently.
-4. **Join a working session.** Sit in on one of our team huddles and/or a shaping session and work through a real problem with us. We're not testing your code; we're seeing how you think about a problem.
-5. **Conversation with the CEO.** ~45 minutes. Customer empathy, business fit, mutual gut-check.
-6. **References and offer.** We talk to two or three of the people you sent us. If we're a fit, we make an offer.
-
-Usually 2–3 weeks end-to-end.
-
 ## Logistics
 
 - **Work model:** Fully remote. We don't have an office. We get together in person at least once a year for an on-site.
@@ -70,3 +57,16 @@ Send your application to **apply@blackhyve.com** with:
 - A cover letter.
 - Two or three references we can talk to.
 - Links to two or three things you've shipped that you're proud of, with a sentence on why each matters.
+
+## How we hire
+
+We respect senior candidates' time.
+
+1. **Application review.** We read what you sent: the cover letter, the ship links, the references. If there's a fit, we'll reach out within a week.
+2. **Conversation with the CTO.** ~45 minutes. We dig into your work, your motivations, and your read on the problem space.
+3. **Deep-dive on past work.** You walk us through one or two things you've shipped: the decisions, the tradeoffs, what you'd do differently.
+4. **Join a working session.** Sit in on one of our team huddles and/or a shaping session and work through a real problem with us. We're not testing your code; we're seeing how you think about a problem.
+5. **Conversation with the CEO.** ~45 minutes. Customer empathy, business fit, mutual gut-check.
+6. **References and offer.** We talk to two or three of the people you sent us. If we're a fit, we make an offer.
+
+Usually 2–3 weeks end-to-end.

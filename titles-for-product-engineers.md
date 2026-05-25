@@ -30,17 +30,18 @@ What separates these levels is scope, judgment, and leverage — not tenure. We 
 - Has informed opinions about product decisions, not just implementation.
 - Uses AI to compress weeks of work into days — output significantly exceeds what an unaided engineer would produce.
 
-## Staff Product Engineer
+## Lead Product Engineer
 - Work happens completely autonomously with no regular need for review.
 - Owns and runs entire subsystems.
 - Helps set and maintain engineering standards for the team.
-- Deep, substantial expertise in multiple stacks.
+- Deep expertise in at least one stack; ramps up quickly in the others when the work requires it.
 - Capable of running and directing small teams for substantial projects, and executing across domains (e.g., a mobile feature that requires API and backend changes).
 - Frames problems and proposes scope to leadership — doesn't just receive specs.
 - Uses AI to multiply not just their own output, but their team's.
 
 ## Principal Product Engineer
 - Can set and direct an entire product area across multiple platforms (e.g., mobile, scheduling, the field experience).
+- Deep expertise across multiple stacks — moves between mobile, web, and backend in the same week without losing momentum.
 - Fully capable of designing, owning, and shipping entirely novel systems.
 - Capable of running and directing larger teams for large, long-running projects.
 - Invents new concepts and pushes the whole organization forward regularly — others copy their patterns.

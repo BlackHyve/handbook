@@ -14,11 +14,11 @@ Bands apply to annualized base salary. Level criteria are in [Titles for Product
 
 ## Location modifier
 
-| Tier | Locations | Multiplier |
-|---|---|---:|
-| Tier 1 | US; Toronto, Vancouver, Montreal | 1.00 |
-| Tier 2 | Other Canada; Western Europe; Australia; New Zealand | 0.85 |
-| Global | Rest of world | 0.60 |
+| Locations | Multiplier |
+|---|---:|
+| US; Toronto, Vancouver, Montreal | 1.00 |
+| Other Canada; Western Europe; Australia; New Zealand | 0.85 |
+| Rest of world | 0.60 |
 
 The modifier applies to US base salary at every level. New locations are added as we hire into them.
 

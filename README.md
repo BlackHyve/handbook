@@ -18,11 +18,12 @@ Active job descriptions. If you don't see a role that fits but think you'd be a 
 - [Principal Product Engineer](jd-principal-product-engineer.md)
 - _Senior Product Engineer - Platform  — coming soon_
 
-## How we work *(coming soon)*
+## How we work
 
-- How we hire
-- How we use AI
-- How we make decisions
+- [Compensation](compensation.md)
+- How we hire *(coming soon)*
+- How we use AI *(coming soon)*
+- How we make decisions *(coming soon)*
 
 ## About this handbook
 

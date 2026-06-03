@@ -1,6 +1,6 @@
 # Titles for Product Engineers at BlackHyve
 
-We use the following criteria to assess the level and title of product engineers at BlackHyve. These criteria aren't exhaustive, and they aren't mere checklists — they're guidelines for an individualized discussion about career progression.
+We use the following criteria to assess the level and title of product engineers at BlackHyve. These criteria aren't exhaustive, and they aren't mere checklists. They're guidelines for an individualized discussion about career progression.
 
 These criteria primarily examine the scope of work someone can tackle independently, the judgment they apply, and the leverage they generate. In addition to that assessment, we also look at the quality of the execution itself.
 
@@ -37,7 +37,7 @@ What separates these levels is scope, judgment, and leverage — not tenure. We 
 - Deep expertise in at least one stack; ramps up quickly in the others when the work requires it.
 - Capable of running and directing small teams for substantial projects, and executing across domains (e.g., a mobile feature that requires API and backend changes).
 - Frames problems and proposes scope to leadership — doesn't just receive specs.
-- Uses AI to multiply not just their own output, but their team's.
+- Uses AI to multiply their team's output, not only their own.
 
 ## Principal Product Engineer
 - Can set and direct an entire product area across multiple platforms (e.g., mobile, scheduling, the field experience).

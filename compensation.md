@@ -22,6 +22,10 @@ Bands apply to annualized base salary. Level criteria are in [Titles for Product
 
 The modifier applies to US base salary at every level. New locations are added as we hire into them.
 
+## Equity
+
+Equity is part of the conversation for offers at BlackHyve. Grants are structured individually at offer time. Ask about it during the process — we'd rather discuss it early than have it be a surprise.
+
 ## Reviews
 
 We review bands annually and as the company scales. Cash bands today sit roughly 25% below comparable AI-pilled remote SaaS shops; we expect that gap to close as the company grows.

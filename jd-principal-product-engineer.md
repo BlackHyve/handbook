@@ -49,6 +49,7 @@ We can't predict exactly what will be hot in three months, but here's a represen
 - **Work model:** Fully remote. We don't have an office. We get together in person at least once a year for an on-site.
 - **Benefits:** Health insurance, paid time off, and an equipment stipend.
 - **Compensation:** We'll discuss during the process.
+- **Equity:** There's an equity component at this stage of the company — specifics are part of the offer conversation, and we're happy to talk about it early.
 
 ## How to apply
 

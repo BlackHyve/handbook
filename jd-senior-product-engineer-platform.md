@@ -55,7 +55,8 @@ This role enters at Senior, but the ceiling is explicit: integrations are yours 
 
 - **Work model:** Fully remote. We don't have an office. We get together in person at least once a year for an on-site.
 - **Benefits:** Health insurance, paid time off, and an equipment stipend.
-- **Compensation:** $95,000–$130,000 base salary in the US. Adjusted by location: US and major Canadian metros (Toronto, Vancouver, Montreal) at 100%; other Canada, Western Europe at 85%; rest of world at 60%. Our cash bands sit ~25% below comparable AI-pilled SaaS shops — we're transparent about it, and we close the gap as we grow.
+- **Compensation:** $95,000–$130,000 base salary in the US. Adjusted by location: US and major Canadian metros (Toronto, Vancouver, Montreal) at 100%; other Canada, Western Europe at 85%; rest of world at 60%. Our cash bands sit ~25% below comparable AI-pilled SaaS shops — we're transparent about it, we close the gap as we grow, and equity is part of the total-package conversation.
+- **Equity:** There's an equity component at this stage of the company — specifics are part of the offer conversation, and we're happy to talk about it early.
 
 ## How to apply
 

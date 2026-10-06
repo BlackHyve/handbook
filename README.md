@@ -9,7 +9,7 @@ This is a living document. Some sections are published; others are drafts we're 
 What each level looks like, by function. Used in hiring and in growth conversations once you're here.
 
 - [Product Engineers](titles-for-product-engineers.md)
-- [Designers](titles-for-designers.md)
+- [Product Designers](titles-for-designers.md)
 
 ## Open roles
 

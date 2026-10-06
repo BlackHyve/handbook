@@ -1,54 +1,70 @@
-# Titles for Designers
+# Titles for Product Designers at BlackHyve
 
-We use the following criteria to assess the level and title of designers at BlackHyve. These criteria aren’t exhaustive, and they aren’t mere checklists. We use the criteria as a guide for having individualized discussions about career progression.
+We use the following criteria to assess the level and title of product designers at BlackHyve. These criteria aren't exhaustive, and they aren't mere checklists. They're guidelines for an individualized discussion about career progression.
 
-These criteria chiefly examine the scope of work someone is capable of tackling independently on a series of projects over an extended period of time (doing something well once isn’t enough to justify advancement). 
+These criteria primarily examine the scope of work someone can tackle independently, the judgment they apply, and the leverage they generate. In addition to that assessment, we also look at the quality of the execution itself.
 
-## Junior Designer
+A product designer at BlackHyve ships product. That includes designing interfaces, but also: shaping the problem, understanding the customer and their work, designing workflows and interactions, prototyping ideas, working directly with engineers through implementation, and making sure what ships is actually good. The shipped product—not the Figma file—is the work.
 
-* Work is thoroughly reviewed with substantial back-and-forth.
-* Works primarily on tightly scoped, single element, routine problems with another designer.
-* Follows existing design patterns, works within our existing look and feel.
-* Usually less than 2 years of experience being a professional designer.
-* WEB: Can write basic HTML/CSS with guidance.
-* MOBILE: Can create prototypes w/ static screens.
+We're an AI-pilled organization and we expect designers to use AI as a force multiplier. Moving up the ladder means increasing the scope of problems you can explore, prototype, evaluate, and direct—while using AI and other tools to dramatically increase the amount and quality of work you can accomplish.
 
-## Designer
+What separates these levels is scope, judgment, and leverage—not tenure. We weight your rate of growth more than your years on the clock.
 
-* Work is reviewed with the occasional need for material direction or implementation changes.
-* Works mostly on tightly scoped features, individual screens, or small problems with another designer.
-* Usually at least 2-5 years of experience being a professional designer.
-* WEB: Fully capable of writing modern HTML/CSS.
-* MOBILE: Can create basic prototypes demonstrating interactions and animations.
+## Junior Product Designer
 
-## Senior Designer
+- Work is thoroughly reviewed with substantial back-and-forth.
+- Building foundational fluency in interaction design, visual design, information architecture, and prototyping.
+- Learning BlackHyve's design system, patterns, product language, and customer workflows.
+- Works on tightly scoped, well-defined design problems. Doesn't yet own outcomes.
+- Can take an established pattern and apply it correctly to a new screen, state, or small workflow.
+- Works closely with engineers and more experienced designers to understand how designs translate into shipped software.
+- Learning to use AI and prototyping tools to explore ideas faster while developing the judgment to evaluate the output.
 
-* Work doesn’t necessarily need to be reviewed, but general approach may be.
-* Can run point on small batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
-* Can occasionally run point on large batch projects, sometimes with assistance.
-* Usually at least 5-8 years of experience being a professional designer.
-* WEB: Fully capable of writing modern HTML/CSS and basic proficiency in Javascript.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
+## Product Designer
 
-## Lead Designer
+- Work is reviewed with the occasional need for material direction.
+- Follows and extends established product and design-system patterns with ease.
+- Owns clearly defined features end-to-end, including flows, interactions, empty states, edge cases, responsive behavior, and implementation details.
+- Talks directly to customers and users when needed; doesn't wait for someone else to translate the problem.
+- Works directly with engineers throughout implementation and reviews the shipped experience rather than treating handoff as the end of the work.
+- Can prototype interactions at enough fidelity to answer important product questions before significant engineering investment.
+- Uses AI to explore more approaches, prototype faster, and increase the quality and quantity of design work they can produce.
 
-* Work happens completely autonomously without regular need for review.
-* Can run point on large batch projects, taking them from concept to shipping as the sole designer (alongside a programmer).
-* Can lead a small department or longer-term initiative.
-* Helps set and maintain professional standards for the entire organization.
-* Makes regular, material contributions to the look-and-feel of our general aesthetic and brand.
-* Usually at least 8-12 years of experience being a professional designer.
-* WEB: Fully capable of writing modern HTML/CSS/JS + the ability to make moderate progress in React/Laravel.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
+## Senior Product Designer
 
-## Principal Designer
+- Work generally doesn't need design review, though the approach may be discussed.
+- Takes substantial features from problem definition to shipping as the sole designer alongside one or more engineers.
+- Can take an ambiguous customer or product problem and turn it into a coherent workflow without being handed requirements or screens.
+- Has strong interaction and visual design judgment and knows when to reuse, extend, or challenge an existing pattern.
+- Designs complex, information-dense workflows without losing clarity or usability.
+- Provides material feedback on the work of other designers and engineers.
+- Has informed opinions about product direction, scope, and implementation—not just interface design.
+- Contributes meaningfully to the design system and identifies opportunities to turn one-off solutions into reusable product patterns.
+- Uses prototypes—including coded prototypes when useful—to reduce uncertainty and improve the quality of product decisions.
+- Uses AI to compress substantial exploration and iteration into dramatically shorter cycles.
 
-* Can run point on our most complex, critical, big batch projects, taking them from concept to shipping as the sole designer (alongside one or more programmers).
-* Leads major product redesigns (from version 2 to 3, 3 to 4, etc).
-* Can spin up new concepts and prototype new products from scratch.
-* Regularly publishes and shares design process insights inside and outside the company.
-* Moves the industry forward by introducing novel techniques, approaches, or ideas.
-* Completely comfortable discussing complex application logic with programmers.
-* Usually at least 12-15+ years of experience being a professional designer.
-* WEB: Fully capable of writing their own HTML/CSS/JS + the ability to make significant progress in React/Laravel.
-* MOBILE: Can create detailed interactive prototypes demonstrating flows, interactions, and animations.
+## Lead Product Designer
+
+- Work happens completely autonomously with no regular need for review.
+- Owns the experience of an entire product area or major set of connected workflows.
+- Frames customer and product problems and proposes scope to leadership rather than waiting to receive a brief.
+- Can lead large, ambiguous projects from early exploration through production and iteration.
+- Understands how workflows connect across BlackHyve and designs for the system rather than optimizing individual screens in isolation.
+- Helps set and maintain design standards for the company.
+- Makes material contributions to BlackHyve's design language, interaction patterns, and overall product quality.
+- Leads significant portions of the design system and works with engineering to ensure those patterns are reflected in production components.
+- Can direct other designers and cross-functional collaborators on substantial projects without becoming a bottleneck.
+- Uses AI to multiply the output of the people around them, not only their own.
+
+## Principal Product Designer
+
+- Can set and direct the experience of BlackHyve across multiple product areas and user types.
+- Fully capable of shaping, designing, prototyping, and helping ship entirely novel product concepts.
+- Takes our hardest, most ambiguous product problems and creates clarity where there previously wasn't an obvious solution.
+- Understands the entire product as a connected system and establishes patterns that allow many different workflows to feel like one coherent BlackHyve product.
+- Sets the direction for BlackHyve's design system and product design language across web, mobile, and emerging interfaces.
+- Can lead major product redesigns and establish the foundations that other designers and engineers build on for years.
+- Invents new concepts and pushes the whole organization forward regularly—others copy their patterns.
+- Cross-functional partner to product, engineering, customers, and go-to-market. Equally comfortable in a customer interview, product strategy discussion, design critique, implementation review, or sales conversation.
+- Raises the design judgment of the entire company, including people who aren't designers.
+- Defines how AI and emerging design/prototyping tools are used across product design, not just in their own work.

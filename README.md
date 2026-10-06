@@ -15,8 +15,6 @@ What each level looks like, by function. Used in hiring and in growth conversati
 
 Active job descriptions. If you don't see a role that fits but think you'd be a force multiplier here, reach out anyway.
 
-- [Lead Product Engineer](jd-lead-product-engineer.md)
-- [Senior Product Engineer — Platform](jd-senior-product-engineer-platform.md)
 - [Principal Product Designer](jd-principal-product-designer.md)
 
 ## How we work

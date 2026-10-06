@@ -1,12 +1,14 @@
 # Lead Product Engineer
 
+*This role is not currently open. This description is retained for reference.*
+
 ## About BlackHyve
 
 We're building the system contractors use to run a profitable business. Construction is a $2 trillion industry, and the best contractors aren't 10% more profitable than average. They're 3 to 11x more profitable. The whole difference comes down to one discipline: tracking production against the bid, every day. The best operators do it religiously. Almost nobody else can, because the tools are spreadsheets, PDFs, and software built in the 1990s.
 
 BlackHyve closes that gap. Pushing plans down to the field is the easy part, and everyone does it. The hard part is getting the truth back up: making it effortless for crews to capture what's actually happening on site, then turning that into something the office can act on before margin quietly disappears. The money's already in the bid; our customers are losing it every day and can't see where. We make the leak visible.
 
-We're a small team of engineers, sales, and forward-deployed folks who all work close to the product and the customer. Our CTO is deep in product and AI; our CEO spent two decades building construction companies. Our pipeline is bigger than we can serve today and we're hiring a Lead Product Engineer to help close that gap.
+We're a small team of engineers, sales, and forward-deployed folks who all work close to the product and the customer. Our CTO is deep in product and AI; our CEO spent two decades building construction companies.
 
 ## The role
 
@@ -48,7 +50,7 @@ We can't predict exactly what will be hot in three months, but here's a represen
 
 ## Career path
 
-This role is the rung below Principal Product Engineer. On a team this size, you'll stretch into Principal-level work regularly — cross-product scope, setting patterns others follow, occasionally directing how AI gets used across engineering. Our Principal tier is open above this role. Promotion happens when you consistently operate at that scope, not after a calendar fires.
+This role is the rung below Principal Product Engineer. On a team this size, you'll stretch into Principal-level work regularly — cross-product scope, setting patterns others follow, occasionally directing how AI gets used across engineering. Principal is the next level above this role. Promotion happens when you consistently operate at that scope, not after a calendar fires.
 
 ## Logistics
 

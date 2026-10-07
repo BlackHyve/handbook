@@ -8,6 +8,8 @@ A product engineer at BlackHyve ships product. That includes writing code, but a
 
 What separates these levels is scope, judgment, and leverage — not tenure. We weight your rate of growth more than your years on the clock. A two-year engineer growing fast will pass a ten-year engineer who's plateaued.
 
+Autonomy means needing less direction to produce good work. Peer review, testing, and feedback remain part of shipping at every level; seniority doesn't exempt anyone from them.
+
 ## Junior Product Engineer
 - Work is thoroughly reviewed with substantial back-and-forth before merging.
 - Building foundational fluency in at least one stack (frontend, backend, or mobile).
@@ -23,7 +25,7 @@ What separates these levels is scope, judgment, and leverage — not tenure. We 
 - Uses AI to ship features faster than they could alone — picks the right work to delegate and the right work to write themselves.
 
 ## Senior Product Engineer
-- Work generally doesn't need code review, though the approach may be discussed.
+- Independently produces work that is ready for code review, with little need for corrective direction. Discusses the approach with peers when the problem warrants it.
 - Takes substantial features from concept to shipping as the sole engineer (alongside a designer).
 - Deep expertise in at least one stack; basic proficiency in at least one other.
 - Provides material feedback on the work of junior engineers and peers.
@@ -31,7 +33,7 @@ What separates these levels is scope, judgment, and leverage — not tenure. We 
 - Uses AI to compress weeks of work into days — output significantly exceeds what an unaided engineer would produce.
 
 ## Lead Product Engineer
-- Work happens completely autonomously with no regular need for review.
+- Sets direction and executes autonomously, while seeking peer review and feedback on consequential decisions and changes.
 - Owns and runs entire subsystems.
 - Helps set and maintain engineering standards for the team.
 - Deep expertise in at least one stack; ramps up quickly in the others when the work requires it.

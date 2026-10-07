@@ -20,9 +20,7 @@ Active job descriptions. If you don't see a role that fits but think you'd be a 
 ## How we work
 
 - [Compensation](compensation.md)
-- How we hire *(coming soon)*
-- How we use AI *(coming soon)*
-- How we make decisions *(coming soon)*
+- [How we hire](how-we-hire.md)
 
 ## About this handbook
 

@@ -50,6 +50,7 @@ We can't predict the exact product priorities six months from now, but the initi
 - **You have taste and a point of view.** You're willing to push beyond the default SaaS answer when there's a better one, while knowing when novelty would just get in the user's way.
 - **You can operate independently.** We're a small team. We need someone who can identify design problems and move them forward without waiting for a perfectly formed brief.
 - **You care about the details.** Copy, empty states, loading states, keyboard behavior, responsiveness, accessibility, animation, spacing — the little things accumulate into how a product feels.
+- **You're curious about using AI in your work.** We use AI to explore alternatives, prototype interactions, and move through iteration faster, while keeping design judgment in the hands of the person doing the work. Prior AI experience isn't a hiring requirement. We can teach the tools and workflows to someone with exceptional design taste and product judgment; we'd like you to be willing to learn and help us discover where they actually improve the product.
 
 You don't need to check every box because you've already done this exact job before. We would also be excited about someone who has spent years doing excellent product design inside a strong system and is ready for the next step: owning the system and design direction themselves.
 
@@ -91,7 +92,7 @@ If you're already looking for full-time work and this sounds exactly like the pr
 - **Work model:** Fully remote. We don't have an office. We get together in person at least once a year for an on-site.
 - **Engagement:** We're open to fractional, part-time, or full-time depending on the person.
 - **Benefits:** For full-time employees: health insurance, paid time off, and an equipment stipend.
-- **Compensation:** We'll discuss this early and structure it appropriately for the engagement.
+- **Compensation:** For full-time employment, $145,000–$225,000 base salary in the US, adjusted by location using our [compensation policy](compensation.md). Part-time salary is prorated to the agreed schedule; fractional consulting fees are agreed separately. We'll discuss this early and structure it appropriately for the engagement.
 - **Equity:** For a full-time role, there's an equity component at this stage of the company. Specifics are part of the offer conversation.
 
 ## How to apply

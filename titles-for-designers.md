@@ -8,7 +8,11 @@ A product designer at BlackHyve ships product. That includes designing interface
 
 We're an AI-pilled organization and we expect designers to use AI as a force multiplier. Moving up the ladder means increasing the scope of problems you can explore, prototype, evaluate, and direct—while using AI and other tools to dramatically increase the amount and quality of work you can accomplish.
 
+These AI expectations describe skills to develop here, not a requirement to arrive with a particular toolset. We can teach AI workflows to someone with exceptional design taste, product judgment, and a willingness to learn. The designer remains responsible for the quality of the work.
+
 What separates these levels is scope, judgment, and leverage—not tenure. We weight your rate of growth more than your years on the clock.
+
+Autonomy means needing less direction to produce good work. Design critique, customer feedback, and implementation review remain part of shipping at every level; seniority doesn't exempt anyone from them.
 
 ## Junior Product Designer
 
@@ -32,7 +36,7 @@ What separates these levels is scope, judgment, and leverage—not tenure. We we
 
 ## Senior Product Designer
 
-- Work generally doesn't need design review, though the approach may be discussed.
+- Independently produces work that is ready for design review, with little need for corrective direction. Discusses the approach with peers when the problem warrants it.
 - Takes substantial features from problem definition to shipping as the sole designer alongside one or more engineers.
 - Can take an ambiguous customer or product problem and turn it into a coherent workflow without being handed requirements or screens.
 - Has strong interaction and visual design judgment and knows when to reuse, extend, or challenge an existing pattern.
@@ -45,7 +49,7 @@ What separates these levels is scope, judgment, and leverage—not tenure. We we
 
 ## Lead Product Designer
 
-- Work happens completely autonomously with no regular need for review.
+- Sets direction and executes autonomously, while seeking critique and feedback on consequential design decisions and reviewing the shipped experience with engineers.
 - Owns the experience of an entire product area or major set of connected workflows.
 - Frames customer and product problems and proposes scope to leadership rather than waiting to receive a brief.
 - Can lead large, ambiguous projects from early exploration through production and iteration.

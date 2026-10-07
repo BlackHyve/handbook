@@ -92,7 +92,7 @@ If you're already looking for full-time work and this sounds exactly like the pr
 - **Work model:** Fully remote. We don't have an office. We get together in person at least once a year for an on-site.
 - **Engagement:** We're open to fractional, part-time, or full-time depending on the person.
 - **Benefits:** For full-time employees: health insurance, paid time off, and an equipment stipend.
-- **Compensation:** For full-time employment, $130,000–$205,000 base salary in the US, adjusted by location using our [compensation policy](compensation.md). Part-time salary is prorated to the agreed schedule; fractional consulting fees are agreed separately. We'll discuss this early and structure it appropriately for the engagement.
+- **Compensation:** For full-time employment, $145,000–$225,000 base salary in the US, adjusted by location using our [compensation policy](compensation.md). Part-time salary is prorated to the agreed schedule; fractional consulting fees are agreed separately. We'll discuss this early and structure it appropriately for the engagement.
 - **Equity:** For a full-time role, there's an equity component at this stage of the company. Specifics are part of the offer conversation.
 
 ## How to apply
